@@ -12,6 +12,9 @@
   <a href="https://datastudio.google.com/">
     <img src="https://img.shields.io/badge/Data Studio-%234285F4?style=flat&logo=google-datastudio&logoColor=white" />
   </a>
+  <a href="https://learn.microsoft.com/en-us/sql/ssms/tutorials/ssms-configuration?view=sql-server-ver16">
+    <img src="https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1" />
+  </a>
   <a href="https://powerbi.microsoft.com/">
     <img src="https://img.shields.io/badge/Power BI-%23F2C811?style=flat&logo=microsoft-power-bi&logoColor=white" />
   </a>

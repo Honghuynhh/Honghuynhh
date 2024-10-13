@@ -62,6 +62,9 @@
   <a href="https://www.capcut.net/">
     <img src="https://img.shields.io/badge/Capcut-%2314151D?style=flat&logo=capcut&logoColor=white" />
   </a>
+    <a href="https://www.behance.net/gabbyhuynh/">
+    <img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoCol" />
+  </a>
 </div>
 
 

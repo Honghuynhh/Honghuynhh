@@ -1,8 +1,7 @@
 ### Hi👋 , My name is Gabby Huynh
 ---------------------------------------
-- 🔭 I’m currently working on Marketing Data Analyst at <a href="http://experteducation.com/vietnam">Expert Education and Visa Services</a>
-- 🌱 I’m currently learning Data Analyst
-- 👨‍💻 All of my projects are available at <a href="https://gabby-huynh.vercel.app/">https://gabby-huynh.vercel.app/</a>
+- 🔭 I’m currently working on Marketing Officer at <a href="http://experteducation.com/">Expert Education and Visa Services</a>
+- 🌱 I’m currently learning Data Analytics
 - 📫 How to reach me: <a href="mailto:hhong.logs@gmail.com">hhong.logs@gmail.com</a>
 
 <h3>👋 Connect with me:</h3>
